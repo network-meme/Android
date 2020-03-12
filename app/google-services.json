@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062193994270",
+    "firebase_url": "https://ccna-quiz-8b357.firebaseio.com",
+    "project_id": "ccna-quiz-8b357",
+    "storage_bucket": "ccna-quiz-8b357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062193994270:android:eaebd824488d2259bdac0f",
+        "android_client_info": {
+          "package_name": "com.ccna.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062193994270-7nhegf4sic7t33u1kdtot2ffi9d1d3ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDACcMM-VGpWuKhzz36pBVTTU0X2OwWM1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062193994270-7nhegf4sic7t33u1kdtot2ffi9d1d3ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

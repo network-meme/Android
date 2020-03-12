@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CCNA Quiz</string>
+    <string name="sets">Sets</string>
+    <!--<string name="banner_id">ca-app-pub-1983580082965304/6619111330</string>
+    <string name="InterstitialAd_id">ca-app-pub-1983580082965304/8907536789</string>-->
+
+    <string name="banner_id">ca-app-pub-1983580082965304/6619111330</string>
+    <string name="InterstitialAd_id">ca-app-pub-1983580082965304/8907536789</string>
+</resources>
